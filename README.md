@@ -29,3 +29,6 @@ The frontend is built with Streamlit, and the backend leverages the power of Lan
 3. Start the Streamlit App::
    ```bash
    streamlit run app.py
+
+## Live Demo
+[Check out the live demo]([https://your-live-demo-link.com](https://rag-based-pdf-data-retrieval-project.onrender.com))
